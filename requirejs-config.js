@@ -8,7 +8,10 @@
 var config = {
     map: {
         '*': {
-           
+            'rowBuilder':             'Magento_Theme/js/row-builder',
+            'toggleAdvanced':         'mage/toggle',
+            'translateInline':        'mage/translate-inline',
+            'sticky':                 'mage/sticky',
             'tabs':                   'mage/tabs',
             'zoom':                   'mage/zoom',
             'collapsible':            'mage/collapsible',
