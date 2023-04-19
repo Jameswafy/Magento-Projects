@@ -1,8 +1,7 @@
 (function(require){
 (function() {
 /**
- * Copyright © Magento, Inc. All rights reserved.
- * See COPYING.txt for license details.
+Section for Customizing my Layouts and Theme Look.: Work in Progress
  */
 
 var config = {
@@ -134,8 +133,7 @@ require.config(config);
 })();
 (function() {
 /**
- * Copyright © Magento, Inc. All rights reserved.
- * See COPYING.txt for license details.
+ Customer Checkout Section for Products
  */
 
 var config = {
